@@ -1,7 +1,5 @@
 # Chest-XRay
 
-Sure, let's summarize the project and outline the implementation steps for GitHub based on the provided code snippets and descriptions.
-
 ### Summary:
 Our project focuses on developing a deep learning model for chest X-ray image classification using the VGG16 architecture. The goal is to accurately classify chest X-ray images into normal and pneumonia categories, aiding healthcare professionals in diagnosing respiratory conditions. We leverage transfer learning with the pre-trained VGG16 model, fine-tuning it for our specific classification task. The project encompasses data preprocessing, model training, evaluation, and visualization of results.
 
@@ -12,6 +10,7 @@ Our project focuses on developing a deep learning model for chest X-ray image cl
 
 2. **Data Preparation:**
    - Obtain the chest X-ray dataset from the provided source.
+   - Link(https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
    - Organize the dataset into training and testing directories, with subdirectories for each class (normal and pneumonia).
 
 3. **Model Architecture:**
