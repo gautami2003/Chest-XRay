@@ -38,5 +38,3 @@ Our project focuses on developing a deep learning model for chest X-ray image cl
 
 8. **Contributing:**
    - Encourage contributions from the community by providing guidelines for reporting issues, submitting pull requests, and contributing to the project's development.
-
-By following these implementation steps and providing comprehensive documentation, users can easily replicate the project, understand its components, and leverage the trained model for their own applications.
